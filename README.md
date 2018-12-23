@@ -5,6 +5,7 @@ This repository contains my work on identifying fake news. The best place for co
 ## Data 
 
 Training data: https://www.kaggle.com/c/fake-news/data
+
 Test data: https://github.com/GeorgeMcIntire/fake_real_news_dataset
 
 ## Code! 
