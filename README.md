@@ -1,6 +1,6 @@
 # FAKE NEWS!
 
-This repository contains my work on identifying fake news. The best place for commentary on my thought process, methodology, and results is on the uploaded Jupyter notebook. However, I have made the code and datasets I used available in case you'd like to run it yourself.
+This repository contains my team's work on identifying fake news. The best place for commentary on my thought process, methodology, and results is on the uploaded Jupyter notebook. However, I have made the code and datasets I used available in case you'd like to run it yourself.
 
 ## Data 
 
