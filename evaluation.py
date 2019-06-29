@@ -10,7 +10,7 @@ Created on Tue Jan  8 16:12:33 2019
 import pandas as pd
 import numpy as np
 
-
+#test
 def evaluator(fitting, testing, train_y, test_y, model, strength):
     predictions = list()
     prediction_probs = list()
